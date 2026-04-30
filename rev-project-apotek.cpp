@@ -177,9 +177,3 @@ void tampilkanData() {
     }
 }
 
-void tekanEnter() {
-    cout << "\nTekan [Enter] untuk kembali ke menu...";
-    cin.ignore();
-    cin.get();
-}
-
